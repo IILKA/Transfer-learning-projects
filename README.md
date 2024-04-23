@@ -6,7 +6,7 @@ ResNetV4 is the best model I trained.
 
 For reproduction, please download the checkpoints from 
 https://drive.google.com/drive/folders/15VaIph4Ux2ZTxjuIDa2KlFNDvGORo5LB?usp=sharing
-and place the checkpoints at the ./model folder. 
+and place the checkpoints at a ./models folder. 
 
 
 
