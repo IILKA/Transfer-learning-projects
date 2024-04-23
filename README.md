@@ -3,7 +3,7 @@ This is for a course assignment, using transfer learning to achieve high accurac
 
 
 ResNetV4 is the best model I trained. 
-This model can achieve 0.925 accuracy steadily over the test set. 
+This model can achieve ##0.925## accuracy steadily over the test set. 
 
 
 
