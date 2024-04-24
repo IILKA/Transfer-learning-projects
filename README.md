@@ -15,7 +15,7 @@ To use ResNet152V2.cpkt use getResnet152V2
 
 
 For reproduction, please download the checkpoints from 
-https://drive.google.com/drive/folders/15VaIph4Ux2ZTxjuIDa2KlFNDvGORo5LB?usp=sharing
+[https://drive.google.com/drive/folders/15VaIph4Ux2ZTxjuIDa2KlFNDvGORo5LB?usp=sharing](https://drive.google.com/file/d/1Q0LzjDF97wWXKbhqv3qiwKr7wW6oUJkb/view?usp=sharing)
 and place the checkpoints at a ./models folder. 
 
 
