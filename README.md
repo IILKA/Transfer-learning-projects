@@ -2,7 +2,7 @@
 This is for a course assignment, using transfer learning to achieve high accuracy of scene classification. 
 
 
-ResNetV4 is the best model I trained. 
+This project test different models on scene classification, and transfer learning on ResNet152 scores the highest. 
 This model can achieve __0.925__ accuracy steadily over the test set. 
 
 
